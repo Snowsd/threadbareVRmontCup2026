@@ -552,7 +552,7 @@ script = ExtResource("3_j0tly")
 
 [node name="PlayerSprite" type="AnimatedSprite2D" parent="." unique_id=1785485617]
 unique_name_in_owner = true
-position = Vector2(0, -17)
+position = Vector2(-5, -7)
 sprite_frames = ExtResource("2_blfj0")
 animation = &"idle"
 autoplay = "idle"
@@ -655,6 +655,7 @@ bus = &"SFX"
 
 [node name="PointLight2D" type="PointLight2D" parent="." unique_id=460659966 groups=["night-lights"]]
 visibility_layer = 2
+position = Vector2(580, 645)
 scale = Vector2(4, 3)
 enabled = false
 energy = 0.5
