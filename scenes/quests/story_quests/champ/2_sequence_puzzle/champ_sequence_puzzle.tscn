@@ -148,7 +148,7 @@ position = Vector2(597, -192)
 position = Vector2(597, -138)
 
 [node name="Bottom4" parent="OnTheGround/SequencePuzzle/Objects" unique_id=1375915767 instance=ExtResource("5_tf43i")]
-position = Vector2(598, -69)
+position = Vector2(597, -71)
 
 [node name="Top5" parent="OnTheGround/SequencePuzzle/Objects" unique_id=1128447491 instance=ExtResource("5_tf43i")]
 position = Vector2(752, -187)
